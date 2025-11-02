@@ -1,0 +1,4 @@
+First line
+Second line with ERROR
+Third line with failure
+Lowercase error here
